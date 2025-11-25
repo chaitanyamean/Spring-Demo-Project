@@ -39,3 +39,4 @@ Annotations:
 • @Qualifier – Specifies which bean to inject when multiple candidates exist.
 • @Override – Indicates a method overrides a method from a superclass or interface.
 • @PostConstruct – Executes a method after dependency injection is completed.
+• @PreDestroy – Executes a method before the bean is removed or application shutdowns.
